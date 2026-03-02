@@ -3,7 +3,7 @@
 ![](github-header-banner.png)
 
 # 💫 About Me:
-Hello, my name is Vincent Jose Christian Andreas Simbolon. I am a professional race car driver for Ferrari AF Corse Hypercar Class in WEC. I won the Le Mans 24H race last year and I'm the 2025 World Driver Champion, alongside my other 2 teammates. I'm currently learning how to become success. I love dogs.
+Hello, my name is Vincent Jose Christian Andreas Simbolon. I am a professional race car driver for Ferrari AF Corse Hypercar Class in WEC. I won the Le Mans 24H race last year and I'm the 2025 World Driver Champion, alongside my other 2 teammates. I also drive in a GT3 class in IMSA. I'm currently learning how to become success. I love dogs.
 
 
 ## 🌐 Socials:
@@ -25,8 +25,12 @@ Hello, my name is Vincent Jose Christian Andreas Simbolon. I am a professional r
 ---
 [![](https://visitcount.itsvg.in/api?id=vincentjcas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Plz donate me :(
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vincentjcas) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vincentjcas) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/vincentjcas) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vincentjcas) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vincentjcas/vincentjcas/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vincentjcas/vincentjcas/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vincentjcas/vincentjcas/output/pacman-contribution-graph.svg">
+</picture>
