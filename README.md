@@ -2,7 +2,7 @@
 
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A9D8F&center=true&vCenter=true&random=false&width=500&lines=Greetings%2C+Mudblood+🐍;Vincent+Simbolon;Code+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2A9D8F&center=true&vCenter=true&random=false&width=500&lines=Greetings%2C+Mudblood+🐍;Heir+of+Slytherin;Code+Enthusiast)](https://git.io/typing-svg)
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/erNV9V2T)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vincentjcas)
