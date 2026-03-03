@@ -26,7 +26,7 @@
 
 **🪄 Hogwarts Career**
 
-- 🏰 **House:** Proud **Slytherin** - 🌑 **Specialization:** Advanced **Dark Arts** & Potions
+- 🏰 **House:** Slytherin - 🌑 **Specialization:** Advanced **Dark Arts** & Potions
 - 🏆 **House Cup Winner** (2025)
 - 🧪 Expert in weaving curses into complex algorithms
 - Seeking the Elder Wand (or at least a bug-free compiler)
