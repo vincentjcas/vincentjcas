@@ -14,12 +14,6 @@
 
 ## 🐍 Pure-Blood Ambition
 
-<!-- <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNicHczbjIzMGRtbmNqbm1pZ2xpanZrMGp4YmZ4M3BpOTFnOTd3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/UhNqutHksywkU/giphy.gif" width="400"/>
-</div>
-
-<br> -->
-
 <table>
 <tr>
 <td width="50%">
